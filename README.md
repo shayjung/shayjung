@@ -19,7 +19,7 @@ and improving deployment workflows through automation.
 
 ## Project
 
-### <img width="26" height="26" alt="DueitLogo" src="https://github.com/user-attachments/assets/5164624b-9a0d-4563-af6d-785d256719e3" /> DueIt - Track What’s Due at Home <sub>[homeprotectors/Backend_Dobby](https://github.com/homeprotectors/Backend_Dobby)</sub>
+### <img width="26" height="26" alt="DueitLogo" src="./DueitLogo.webp" /> DueIt - Track What’s Due at Home <sub>[homeprotectors/Backend_Dobby](https://github.com/homeprotectors/Backend_Dobby)</sub>
 > **Household management iOS app released on the App Store**
 
 - Spring Boot backend deployed on AWS EC2
