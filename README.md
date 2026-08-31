@@ -12,8 +12,8 @@ and improving deployment workflows through automation.
 
 ## Project
 
-### 🏠 DueIt [Repo](https://github.com/homeprotectors/Backend_Dobby)
-> Shared household management iOS app for recurring chores and household supplies
+### 🏠 DueIt <sub>[homeprotectors/Backend_Dobby](https://github.com/homeprotectors/Backend_Dobby)</sub>
+> **Shared household management iOS app** for recurring chores and household supplies
 
 - Spring Boot backend deployed on AWS EC2
 - Docker + ECR + GitHub Actions CI/CD
