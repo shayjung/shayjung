@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Seoyoung 👾
 
-<!--
-**shayjung/shayjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud / DevOps Engineer**
 
-Here are some ideas to get you started:
+I'm interested in building reliable infrastructure
+and improving deployment workflows through automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+`AWS` `Terraform` `Docker` `GitHub Actions` `Linux`  
+`Java` `Spring Boot`
+
+## Project
+
+### 🏠 DueIt [Repo](https://github.com/homeprotectors/Backend_Dobby)
+> Shared household management iOS app for recurring chores and household supplies
+
+- Spring Boot backend deployed on AWS EC2
+- Docker + ECR + GitHub Actions CI/CD
+- GitHub OIDC authentication
+- Migrating existing AWS infrastructure to Terraform
+
+## Currently Working On
+
+- Migrating existing AWS resources to Terraform
+- Improving deployment and secret management
+- Building hands-on AWS infrastructure projects
